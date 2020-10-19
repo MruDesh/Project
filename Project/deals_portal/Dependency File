@@ -1,0 +1,7 @@
+Please install following packages:
+
+1. npm install     
+2. npm i @material-ui/core
+3. npm i formik
+4. npm i mui-datatables
+5. npm i @material-ui/icons
